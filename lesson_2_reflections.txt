@@ -1,3 +1,10 @@
-What happens when you initialize a repository? Why do you need to do it?:
+1) What happens when you initialize a repository? Why do you need to do it?:
 
     se crea el directorio .git que contiene o va a contener todo el historial de los archivos en el repositorio
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?:
+
+    Que staging area te permite ver cuales son los archivos los cuales realizar commit y working directory solo
+    ves los archivos que estas trabajando en el repositorio
+
+
