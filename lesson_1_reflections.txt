@@ -1,0 +1,32 @@
+1) Reflexiones:
+
+    Usar la herramienta diff para ver la diferencia entre las dos versiones de un codigo
+    es buena para no tener que buscar por horas y ahorrar tiempo en la busqueda del error en el codigo.
+
+2) How could having easy access to the entire history of a file make you a more
+ efficient programmer in the long term?:
+
+    Por que me permite ser mas eficiente al encontrar errores y mantener mi codigo en orden.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit,
+  like you do in Git, vs having versions automatically saved, like Google Docs does?:
+
+    Pros: Que tu llevas el control de las versiones del codigo.
+          Los commit llevan comentarios tuyos entonces es mas facil entender que fue lo se hizo.
+
+    Cons: Si no se lleva el debido control de estos puedes hacer commit por cosas inneesarias o tener
+          commits muy grandes.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, 
+   like Google Docs, treat each file separately?:
+
+    Porque pasaria que tendrias muchisimos commits para cada archivo que hayas alterado y es mas facil tener uno solo
+    que involucre los cambios en mas de uno solo.
+
+5) How can you use the commands git log and git diff to view the history of files?:
+    git log para revisar todos los commits del repositorio y usando git diff para ver las lineas agregadas y eliminadas.
+
+6) How might using version control make you more confident to make changes that could break something?:
+    Porque si llegas a tener bug, puedes checar con los commits anteriores cual fue el error.
+
+

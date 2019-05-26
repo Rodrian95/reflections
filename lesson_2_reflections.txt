@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?:
+
+    se crea el directorio .git que contiene o va a contener todo el historial de los archivos en el repositorio
