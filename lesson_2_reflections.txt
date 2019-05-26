@@ -16,3 +16,7 @@
 
     Ya que puedo experimentar con mi proyecto, hacer nuevas versiones, etc. sin afectar el master que es 
     la version d emi proyecto antes de experimentar con el.
+
+5) How do the diagrams help you visualize the branch structure?:
+
+    Permite ver de manera grafica los commits de cada branch 
