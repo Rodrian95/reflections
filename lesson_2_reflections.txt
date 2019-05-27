@@ -20,3 +20,11 @@
 5) How do the diagrams help you visualize the branch structure?:
 
     Permite ver de manera grafica los commits de cada branch 
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?:
+
+    Que puedas unir el trabajo que hiciste en el brench con el master, los diagramas sirvieron para observar los
+    commit del brench y como se unian con el master, entonces podias checar los commit del brench ahora desde
+    git log con el master.
+
+7) 
